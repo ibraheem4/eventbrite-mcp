@@ -2,6 +2,10 @@
 
 This is a Model Context Protocol (MCP) server that provides tools for interacting with the Eventbrite API. It allows AI assistants to search for events, get event details, retrieve venue information, and more.
 
+<a href="https://glama.ai/mcp/servers/ev69dbqhrk">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/ev69dbqhrk/badge" alt="Eventbrite Server MCP server" />
+</a>
+
 ## Features
 
 - Search for events based on various criteria (location, date, category, etc.)
